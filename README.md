@@ -7,7 +7,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-Modern_Glassmorphism-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic_Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_on_GitHub_Pages-brightgreen?style=for-the-badge&logo=github)](https://asif496.github.io/reel-vault/)
 [![License](https://img.shields.io/badge/License-MIT-green.badge?style=for-the-badge)](LICENSE)
 
 <br/>
@@ -18,9 +18,11 @@
 
 <p align="center">
   <b>ReelVault</b> is a futuristic, distraction-free vertical content hub that unifies <b>Instagram Reels</b>, <b>Facebook Reels</b>, and <b>YouTube Shorts</b> into a unified 4-column interactive feed with instant hover preview, cinema view, and YouTube-style volume management.
+  <br/><br/>
+  🌐 <a href="https://asif496.github.io/reel-vault/"><b>View Live Demo on GitHub Pages →</b></a>
 </p>
 
-[Explore Features](#-key-features) • [Quickstart](#-quickstart) • [Shortcuts](#-keyboard-shortcuts) • [Architecture](#-architecture)
+[Live Demo](https://asif496.github.io/reel-vault/) • [Explore Features](#-key-features) • [Quickstart](#-quickstart) • [Shortcuts](#-keyboard-shortcuts) • [Architecture](#-architecture)
 
 </div>
 
