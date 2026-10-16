@@ -225,7 +225,7 @@ function renderAppShell() {
           </div>
           <div>
             <h1 class="brand-title">
-              ReelStream
+              ReelVault
               <span class="brand-badge">4-Col Hub</span>
             </h1>
             <p class="brand-subtitle">Interactive Reels & Shorts Archive</p>

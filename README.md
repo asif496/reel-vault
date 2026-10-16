@@ -1,4 +1,4 @@
-# 🎬 ReelStream — Personal Reel & Shorts Hub
+# 🎬 ReelVault — Personal Reel & Shorts Hub
 
 A modern, high-performance web application built with **HTML5, Vanilla CSS, TypeScript, and Vite** that curates your collection of 320+ Instagram Reels, Facebook Reels, and YouTube Shorts into an interactive 4-column side-by-side feed.
 
